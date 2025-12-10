@@ -1,4 +1,4 @@
-https://github.com/Jasperae/Forex/blob/main/Resources/Market%20Structure%201.png
+![]("https://github.com/Jasperae/Forex/blob/main/Resources/Market%20Structure%201.png")
  
  Flashcards: Market Structure Basics
 
