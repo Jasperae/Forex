@@ -1,0 +1,27 @@
+- Topic: Market structure 7 – focusing on fake break of structure (fake BOS) and fake change of character (fake C).
+- Core definitions:
+  - Structure vs. substructure: structure is the market pattern on a higher time frame; substructure is the same concept on a lower time frame (structure inside a structure).
+  - Higher highs / higher lows describe an uptrend; the opposite describes a downtrend.
+  - Break of structure (BOS): when a higher high is broken to the upside, or a lower low is broken to the downside.
+  - Change of character (C): a shift in the market’s behavior/character, signaling a potential trend change.
+- Fake BOS and fake C (fake changes):
+  - Fake BOS: occurs on a lower time frame; looks like a BOS on that frame but is not a true BOS on the higher time frame. Often a small up-move that doesn’t take out a real high on the higher time frame.
+  - Fake C: also occurs on a substructure; market shows a temporary change of character but fails to properly break the previous major high/low, thus trapping liquidity.
+- How to read and avoid fakes:
+  - Always identify the main (higher time frame) break of structure first, then check on the lower time frame for confirmations.
+  - Do not chase fake breaks seen on a lower time frame as if they were the main BOS/C. Use the higher time frame as the primary reference.
+  - Fake C proper vs. improper:
+    - Proper C on an uptrend: must first break the existing high, then break the low to complete the character shift.
+    - Improper C: market does not break the prior high before forming a lower low; can be liquidity trapping (SMC liquidity) rather than a real change in character.
+- Time frames and trading approach:
+  - Different traders operate on different time frames (1 day, 4 hours, 1 hour, 15 minutes, etc.).
+  - Swing traders typically use daily to 4-hour time frames; confirm entries on lower frames (1H, 15M) after identifying a main BOS/C on the higher frame.
+  - Don’t over-analyze multiple frames simultaneously; anchor your analysis on the main time frame and use lower frames only for confirmation.
+- Practical notes:
+  - Liquidity and liquidity traps: many fake moves are created to sweep liquidity before continuing; be mindful of liquidity zones near the highs/lows.
+  - On uptrends, watch for fake C that doesn’t properly break the prior high before breaking the low.
+  - On downtrends, the proper C occurs with a move that first breaks the lower high, then the lower low, before continuing.
+- Additional guidance:
+  - Practice drawing BOS and C on charts to distinguish proper vs. fake moves.
+  - Use weekly calls and community discussions to reinforce understanding.
+  - The creator emphasizes revisiting videos in the series for a complete understanding and staying subscribed for updates.

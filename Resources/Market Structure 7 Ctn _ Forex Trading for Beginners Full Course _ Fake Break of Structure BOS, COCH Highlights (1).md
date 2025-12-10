@@ -1,0 +1,31 @@
+- Topic: Market structure, focusing on fake Break of Structure (fake BOS) and fake Change of Character (fake C).
+- Core concepts recap:
+  - Market structure and substructure: uptrends have higher highs (HH) and higher lows (HL). Substructure = market structure on a lower time frame.
+  - Fake BOS and fake C occur on the substructure (lower time frame) while the main trend moves on a higher time frame.
+- How fake BOS arises:
+  - When trading on a lower time frame, you may see a small up-move that looks like a break of the higher-time-frame structure, but it’s only a “fake” breakout on the lower time frame.
+  - Real break of structure should be identified on the higher time frame (e.g., daily for swing traders). Use lower time frames only to confirm entries.
+- Time frame guidance:
+  - Trade on higher time frames (e.g., daily) for main structure. Use 4-hour and 1-hour for confirmation entries.
+  - Avoid “peeping” into too many time frames at once; focus on one main frame and use sub-frames for confirmation.
+- Liquidity concept:
+  - What looks like a BOS on a lower frame can be liquidity-building (liquidity traps) rather than a true structural break.
+  - Traders may mistake smooth liquidity moves on lower time frames for genuine breaks.
+- How to identify legitimate Break of Structure (BOS) and Change of Character (C):
+  - Change of Character (C) in an uptrend: must break the previous high first, then break the low to indicate a true shift.
+  - Fake C occurs when the market does not properly break the previous high before breaking a low and continuing; can form liquidity traps.
+  - For downtrends, the proper C involves breaking lower lows and lower highs in sequence, followed by a pullback to a POI (point of interest) or liquidity area.
+- Practical entry approach:
+  - Look for the main BOS/C on the higher time frame first.
+  - Use lower time frames to find confirmatory entries, not as the primary basis for the trade.
+- Example handling:
+  - In uptrends with a fake C, the market may push slightly up, then pull back to liquidity and continue—be wary of entering on the fake move.
+  - In downtrends, watch for genuine higher-lows/lower-highs sequence and avoid entries based solely on fake C patterns.
+- Community and learning:
+  - Encouragement to watch the entire Market Structure series (avoid skipping episodes).
+  - Subscribe and turn on notifications; join Telegram for weekly calls and ongoing support.
+- What to do next:
+  - Revise and rewatch the video to solidify understanding.
+  - Ask questions in the comments; participate in the Telegram community for real-time discussions and calls.
+- Closing notes:
+  - The video emphasizes discipline: identify true BOS/C on the correct time frame, use lower frames only for confirmatory entries, and understand liquidity traps to avoid false signals.
