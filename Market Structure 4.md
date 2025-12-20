@@ -2,7 +2,7 @@
 
 [image 4]: https://github.com/Jasperae/Forex/blob/main/Resources/Market%20Structure%204.png "image 4"
 
-### Study Guide: Rally-Based and Base-Based Market Structures
+## Study Guide: Rally-Based and Base-Based Market Structures
 
 ### Key concepts (definitions)
 - Rally: An aggressive price move to the upside.
