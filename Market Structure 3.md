@@ -2,7 +2,7 @@
 
 [image 3]: https://github.com/Jasperae/Forex/blob/main/Resources/Market%20Structure%203.png "image 3"
 
-### ### Study Guide: Market Structure and Substructure
+## Study Guide: Market Structure and Substructure
 
 ### Key concepts
 - Market structure: The overall direction and framework of price movement on a higher time frame (HTF). It defines the main trend (uptrend, downtrend, or range) and major swings.
