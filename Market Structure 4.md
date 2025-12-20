@@ -2,6 +2,68 @@
 
 [image 4]: https://github.com/Jasperae/Forex/blob/main/Resources/Market%20Structure%204.png "image 4"
 
+### Study Guide: Rally-Based and Base-Based Market Structures
+
+### Key concepts (definitions)
+- Rally: An aggressive price move to the upside.
+- Drop: An aggressive price move to the downside.
+- Base: A period of price consolidation or sideways movement (choppy, range-bound).
+- Base vs. Rally/Drop relationship: The base occurs after an impulsive move (up or down) and precedes the next impulsive move.
+
+### Four basic concept screens (patterns to recognize)
+1) Rally Base Rally (RBR)
+- Structure: Impulsive rally up → base (consolidation) → another rally up.
+- How it looks: a strong upward swing, followed by a sideways/testing area, then another upward move.
+
+2) Rally Base Drop (RBD)
+- Structure: Impulsive rally up → base → impulsive move down.
+- How it looks: initial upswing, a consolidation zone, then a sharp move down.
+
+3) Drop Base Rally (DBR)
+- Structure: Impulsive drop down → base → impulsive move up.
+- How it looks: a strong downward move, a consolidation zone, then a strong upward move.
+
+4) Drop Base Drop (DBD)
+- Structure: Impulsive drop down → base → impulsive move down.
+- How it looks: a strong downward move, a consolidation zone, then another downward move.
+
+### How to identify on a chart
+- Look for three-part patterns in sequence:
+  - First leg: either a rally (up) or a drop (down).
+  - Middle leg: a base (consolidation) where price moves sideways.
+  - Third leg: the next impulsive move (up or down) that continues the pattern.
+- Label the segments as you see them:
+  - R = Rally (up impulse)
+  - B = Base (consolidation)
+  - D = Drop (down impulse)
+- Example labeling:
+  - Rally Base Rally: R-B-R
+  - Rally Base Drop: R-B-D
+  - Drop Base Rally: D-B-R
+  - Drop Base Drop: D-B-D
+
+### Why these patterns matter
+- They help you anticipate the next move after a consolidation.
+- They are common in real markets and not just textbook diagrams.
+- They add confluence to your trading setup when combined with other signals or indicators.
+
+### Practice tips
+- Practice sketching these patterns on charts you study.
+- Backtest on past charts to recognize occurrences of RBR, RBD, DBR, and DBD.
+- When you see a base after an impulsive move, ask: what comes next? Is there another impulsive move up or down?
+
+### Next steps and further learning
+- The instructor mentions a future video: “Market Structure 4 chat view,” which will show how these patterns play out in real-time charts.
+- Plan to test and learn by watching live markets, and backtest on your own charts.
+- Engage with the content: subscribe, like, and share if you’re finding value.
+
+### If you want a quick recap:
+- Rally = up move; Drop = down move; Base = sideways consolidation.
+- Patterns: RBR, RBD, DBR, DBD (three-part sequences).
+- Use simple sketches on charts to identify and predict next moves.
+- Practice with backtesting and real-market charts to internalize these structures.
+
+
 - Q: What is a rally in market structure terms?
   A: An aggressive move of price to the upside.
 
