@@ -2,15 +2,15 @@
 
 [image 6]: https://github.com/Jasperae/Forex/blob/main/Resources/Market%20Structure%201.png "image 6"
 
-Study Guide: Consolidation Strategy (Technical Analysis)
+## Study Guide: Consolidation Strategy (Technical Analysis)
 
-Purpose of this guide
+### Purpose of this guide
 - Understand how consolidation (sideways/ranging markets) works.
 - Learn how liquidity, order blocks, and break of structure interact during consolidation.
 - Explore entry ideas, risk management, and trade management for consolidation plays.
 - Prepare you to recognize when to stay out, enter, or close a trade.
 
-Key concepts and definitions
+### Key concepts and definitions
 - Consolidation (sideways market / ranging market)
   - A period where price moves within a sideways range, not making clear higher highs or lower lows.
   - Often occurs around liquidity zones with many resting orders (liquidity pools) above and below the current price.
@@ -45,7 +45,7 @@ Key concepts and definitions
   - Inconclusive consolidation: multiple liquidity zones at top and bottom; price could break up or down.
   - Decision: some traders close positions to avoid risk; others hold if their risk tolerance and backtested plan indicate the odds favor the move.
 
-Practical concepts and examples (as described)
+### Practical concepts and examples (as described)
 
 1) Simple consolidation awareness
 - When price ranges, you can’t predict the breakout direction with certainty.
@@ -82,20 +82,20 @@ Practical concepts and examples (as described)
 - Using break of structure as a confirmation signal for a directional move.
 - Stop losses (SL) with enough space to account for liquidity sweeps and noise.
 
-What to practice or test
+### What to practice or test
 - Identify consolidation zones on multiple timeframes and mark nearby liquidity pockets (top and bottom).
 - Draw potential order blocks within a consolidation zone and test entry ideas around these blocks.
 - Practice decisions on when to exit during indecision (e.g., closing a trade in the presence of strong liquidity above/below the entry).
 - Backtest 1:5 risk-reward setups within consolidation contexts to assess profitability under various market conditions.
 - Experiment with sniper entries near bottom or top liquidity to observe how often price respects the entry and moves toward the target.
 
-Study tips
+### Study tips
 - Focus on the core concept: consolidation is a sideways market with liquidity zones; price can break in either direction.
 - Learn to identify order blocks and common liquidity levels in consolidation to anticipate potential movements.
 - Use backtesting to understand how the 1:5 risk-reward setup performs under different market regimes.
 - Keep risk management front and center: have a clear plan for when to exit if the market remains indecisive.
 
-Key terminology quick reference
+### Key terminology quick reference
 - Consolidation: sideways/ranging price action around a zone of liquidity.
 - Liquidity: resting orders around certain price levels (visible as clusters above/below the current price).
 - Break of Structure (BoS): price moves through a previous structure level, signaling potential continuation or reversal.
@@ -106,7 +106,7 @@ Key terminology quick reference
 - Take Profit (TP): target level where you plan to close a winning trade.
 - Stop Loss (SL): price level where you close a losing trade to limit risk.
 
-Practice questions
+### Practice questions
 - How do you identify a consolidation zone on a chart? What visual cues indicate potential liquidity pockets?
 - What is your process for deciding whether to stay in or exit a trade during a consolidation phase with indecision?
 - How would you place a sniper entry in a consolidation scenario? What factors determine the entry point and stop loss distance?
@@ -114,10 +114,10 @@ Practice questions
 - Create a simple 1:5 risk-reward trading plan for a consolidation setup: specify entry, stop loss, and take profit levels in a hypothetical scenario.
 - Compare a buy setup and a sell setup in consolidation: what would you monitor in each case to confirm the move?
 
-If you want to learn more
+### If you want to learn more
 - The video suggests connecting with a trading community and following up videos that cover break of structure, change of character, and shift in market structure to deepen understanding of consolidation and related concepts.
 
-End note
+### End note
 - Consolidation is a fundamental concept in price action trading. It can be risky if entered without confirmation, but with disciplined risk management, liquidity awareness, and well-planned entries/targets, it can be used to capture meaningful moves.
 
   - What consolidation is
