@@ -3,14 +3,14 @@
 [image 7]: https://github.com/Jasperae/Forex/blob/main/Resources/Market%20Structure%201.png "image 7"
 [image 7]: https://github.com/Jasperae/Forex/blob/main/Resources/mindmap-2025-12-10T21-53-28-530Z.svg "image 7"
 
-Study Guide: Market Structure, Break of Structure, Change of Character, and Shift of Market Structure
+## Study Guide: Market Structure, Break of Structure, Change of Character, and Shift of Market Structure
 
-Purpose
+### Purpose
 - Learn the basic concepts to identify whoa points in price action that indicate changes in trend and continuation patterns.
 - Terms to know: Break of Structure (BOS), Change of Character (COC or CC), Shift of Market Structure (SMS).
 - Use these concepts to gain an edge in trading by recognizing structure changes and potential pullbacks or continuations.
 
-Key Definitions
+### Key Definitions
 - Break of Structure (BOS)
   - A break of a previous high (in an uptrend) or a previous low (in a downtrend).
   - Signals that the current pattern may be weakening or a reversal/relocation of the trend could be starting.
@@ -25,7 +25,7 @@ Key Definitions
   - Conceptually often occurs before a Change of Character.
   - SMS can be observed as a failure to push to a higher high (in an uptrend) or failure to push to a lower low (in a downtrend), signaling potential momentum shift toward the opposite direction.
 
-Core Concepts and How to Identify Them on a Chart
+### Core Concepts and How to Identify Them on a Chart
 - Price action basics
   - Uptrend is characterized by Higher Highs (HH) and Higher Lows (HL).
   - Downtrend is characterized by Lower Low (LL) and Lower High (LH).
@@ -44,7 +44,7 @@ Core Concepts and How to Identify Them on a Chart
   - Example (uptrend): Price makes a new higher high but fails to push beyond and then retraces; sentiment shifts toward potential downside, indicating a shift in structure toward a possible reversal or deeper correction.
   - Example (downtrend): Price makes a new lower low but then retraces and fails to set a new lower low, indicating a potential shift toward an uptrend.
 
- Practical Guidelines and How to Mark on Charts
+### Practical Guidelines and How to Mark on Charts
 - In an Uptrend
   - Identify the last higher high (HH).
   - Look for BOS if price closes below that HH (i.e., breaks structure).
@@ -60,7 +60,7 @@ Core Concepts and How to Identify Them on a Chart
 - Relation to liquidity/POI
   - CO C often involves retracement to liquidity zones, order blocks, or points of interest (POIs). These are common targets for the retracement before the next directional move.
 
- Simple Scenarios to Visualize
+### Simple Scenarios to Visualize
 - Uptrend BOS and COC
   - Price forms HH and HL (uptrend).
   - Price makes a new HH and then breaks the previous HH (BOS).
@@ -72,7 +72,7 @@ Core Concepts and How to Identify Them on a Chart
 - SMS in both directions
   - SMS can appear as a subtle weakening signal before a CHoC; it often occurs before the actual change in trend and is used to anticipate a potential reversal.
 
-Study Techniques
+### Study Techniques
 - Take screenshots or annotate charts to identify:
   - HH, HL, LH, LL levels.
   - The last swing high and swing low for BOS opportunities.
@@ -84,27 +84,27 @@ Study Techniques
   - Note any SMS signals that preceded a CP (change of trend).
 - Cross-reference with liquidity or POI zones to reinforce understanding of why retracements occur.
 
-Practice Tasks
+### Practice Tasks
 - Task 1: In an uptrend chart, identify the last swing high. Mark a BOS when price breaks that high. Then identify a potential Change of Character with a retracement and reversal pattern toward a downtrend.
 - Task 2: In a downtrend chart, identify the last swing low. Mark a BOS when price breaks above that low. Then identify a potential Change of Character with a retracement and reversal pattern toward an uptrend.
 - Task 3: Look for SMS signals in both directions. Note where price shows a subtle shift in structure before a clear BOS or CHoC occurs.
 
-Note on Terminology and Notation
+### Note on Terminology and Notation
 - The video uses various notations for CHoC (COC), e.g., CH, CC, or X; choose one consistent label in your own notes.
 - SMS is explicitly “Shift of Market Structure” and is described as a precursor to a change of character in many cases.
 - BOS (Breaker of Structure) is sometimes abbreviated as BOS or marked inside the structure area; pick one convention and stay consistent.
 
-Summary of Takeaways
+### Summary of Takeaways
 - Break of Structure (BOS) marks a key point where the current swing structure is violated (in uptrends: previous HH; in downtrends: previous LL).
 - Change of Character (COC) indicates a decisive shift in trend direction (up to down, or down to up) after a significant move and retracement.
 - Shift of Market Structure (SMS) signals a weakening of the current trend’s momentum and often precedes a Change of Character.
 - Understanding and correctly identifying BOS, COC, and SMS helps you spot potential trend continuations and reversals more reliably.
 - Practice by labeling HH/LH/HL/LL, BOS points, CHoC events, and SMS signals on real charts to build intuition.
 
-Resources and Community
+### Resources and Community
 - The content references Pips X, with community discussions and updates on X (Twitter) and Telegram. Check the description in the original video for links to channels and resources if you want to review examples and join discussions.
 
-If you want, I can format this into a one-page printable study sheet or create a step-by-step checklist you can use while you analyze charts.
+### If you want, I can format this into a one-page printable study sheet or create a step-by-step checklist you can use while you analyze charts.
 
 - What the video covers
   - Market structure concepts: Break of Structure (BOS), Change of Character (CH/CC), and Shift of Market Structure (SMS).
