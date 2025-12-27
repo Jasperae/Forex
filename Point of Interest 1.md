@@ -1,4 +1,4 @@
-## Study Guide: Point of Interest - Other Blocks (SMC)
+## Study Guide: Point of Interest - Order Blocks (SMC)
 
 ### Overview
 - Topic: Understanding and using other blocks as a Point of Interest (POI) in market structure and Smart Money Concepts (SMC).
