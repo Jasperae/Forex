@@ -6,7 +6,7 @@
 - Source perspective: Explanations include criteria to avoid fake/invalid blocks, examples of bullish and bearish blocks, and practical entry setups.
 
 ### Key Concepts
-- Order Block (Other Block / Point of Interest)
+- Order Block (Order Block / Point of Interest)
   - A price zone where the market has shown strong order imbalances and is likely to attract future liquidity and reaction.
   - Used as a guide for potential entries, trend continuation, and retracements.
 - Valid vs. Invalid (Fake) Blocks
